@@ -17,7 +17,8 @@ Here are some ideas to get you started:
  
 Iam **Alreza Ma\'rifatul Amror**.<br>
 An undergraduate mathematics student who has strong passion in world of data with strong programming and analytical skills<br>
- 
+🌱 Learn how to teach machine learn
+
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/AlrezaAmror">
