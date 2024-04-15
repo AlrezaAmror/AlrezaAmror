@@ -17,12 +17,5 @@ Here are some ideas to get you started:
  
 Iam **Alreza Ma\'rifatul Amror**.<br>
 An undergraduate mathematics student who has strong passion in world of data with strong programming and analytical skills<br>
-🌱 Learn how to teach machine learn
-
-### Github Statistic
-<p align="left">
-<a href="https://github.com/AlrezaAmror">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlrezaAmror&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlrezaAmror&layout=compact&layout=compact&theme=algolia"/>
-</a>
-</p>
+🌱 Learn how to teach machine learn <br>
+😄 Call me Alreza 
