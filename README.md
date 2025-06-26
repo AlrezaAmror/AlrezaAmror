@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 # Hi there 👋
  
 Iam **Alreza Ma\'rifatul Amror**.<br>
-An undergraduate mathematics student who has strong passion in world of data with strong programming and analytical skills<br>
-🌱 Learn how to teach machine learn <br>
+Mathematics fresh graduated who has strong passion in world of data with strong programming and analytical skills<br>
 😄 Call me Alreza 
+🔭 Looking for insight
+🌱 Learn how to teach machine learn <br>
